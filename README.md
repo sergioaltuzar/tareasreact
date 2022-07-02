@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+#App de tareas creada en react 
+#Link -> https://sergioaltuzar.github.io/tareasreact/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
