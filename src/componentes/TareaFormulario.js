@@ -14,8 +14,9 @@ function TareaFormulario (props) {
         e.preventDefault();
         
         const tareaNueva = {
-            id: '123',
-            texto: 'Hola'
+            id: ,
+            texto: input,
+            completada: false
         }
     }
 
