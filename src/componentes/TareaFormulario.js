@@ -6,8 +6,8 @@ function TareaFormulario (props) {
             <input 
             className='tarea-input'
             type='text'
-            placeholder='Escribe una terea'
-            name='text0'
+            placeholder='Escribe una tarea'
+            name='texto'
             />
             <button 
             className='tarea-boton'>
