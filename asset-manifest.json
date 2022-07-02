@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/tareasreact/static/css/main.d2450708.css",
+    "main.js": "/tareasreact/static/js/main.b4b76786.js",
+    "static/media/logo-sergio.png": "/tareasreact/static/media/logo-sergio.93d5b1c3cffe07f024ae.png",
+    "index.html": "/tareasreact/index.html",
+    "main.d2450708.css.map": "/tareasreact/static/css/main.d2450708.css.map",
+    "main.b4b76786.js.map": "/tareasreact/static/js/main.b4b76786.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2450708.css",
+    "static/js/main.b4b76786.js"
+  ]
+}
